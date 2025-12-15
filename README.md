@@ -1,5 +1,5 @@
-<img width="955" height="888" alt="image" src="https://github.com/user-attachments/assets/f2c6d340-0d27-47a2-9e8c-d2a36b2790f4" />
-# 🌿 BioSnap
+<!-- <img width="955" height="888" alt="image" src="https://github.com/user-attachments/assets/f2c6d340-0d27-47a2-9e8c-d2a36b2790f4" /> -->
+## 🌿 BioSnap
 
 > AI-Powered Plant & Animal Recognition using AWS Serverless Architecture
 
